@@ -8,19 +8,19 @@
 |--------|-------|
 | Total Installations | 1 |
 | Active Users (7d) | 1 |
-| Total Invocations | 1 |
+| Total Invocations | 2 |
 
 ## Users
 
 | User | First Seen | Last Seen | Invocations | Top Plugins |
 |------|------------|-----------|-------------|-------------|
-| rafabene | 2026-03-24 | 2026-03-24 | 1 | code-review (1) |
+| rafabene | 2026-03-24 | 2026-03-24 | 2 | code-review (2) |
 
 ## Plugin Breakdown
 
 | Plugin | Invocations | Top Skills |
 |--------|-------------|------------|
-| hyperfleet-code-review | 1 | review-pr (1) |
+| hyperfleet-code-review | 2 | review-pr (2) |
 
 ---
-*Last updated: 2026-03-24T21:51:14.893Z*
+*Last updated: 2026-03-24T22:08:55.220Z*
