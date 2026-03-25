@@ -3,13 +3,13 @@
     "rafabene": {
       "first_seen": "2026-03-24",
       "last_seen": "2026-03-25",
-      "total": 4,
+      "total": 5,
       "plugins": {
         "hyperfleet-code-review": {
           "review-pr": 2
         },
         "hyperfleet-claude-plugins": {
-          "review-pr": 2
+          "review-pr": 3
         }
       }
     }
